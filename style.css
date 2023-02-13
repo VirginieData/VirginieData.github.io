@@ -1,0 +1,28 @@
+h1{
+font-size: 30px;
+text-align: center;
+color: #000000 ;
+text-decoration : underline
+}
+
+p{
+font-size: 20px;
+text-align: center;
+font-style: italic;
+font-family: Helvetica, sans-serif;
+}
+
+p{
+font-size: 20px;
+text-align: left;
+font-family: Helvetica, sans-serif;
+}
+
+body {
+background-color: #2471A3 ;
+}
+
+img {
+	width: 320px;
+	height: 320px;
+}
